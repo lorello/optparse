@@ -1,0 +1,8 @@
+{
+	"name": "optparse",
+	"version": "1.0",
+	"description": "Simple command line arguments parser for BASH",
+	"global": true,
+	"repo": "lorello/optparse",
+	"install": "make install"
+}

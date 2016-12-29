@@ -69,3 +69,12 @@ the default value to set the variable to if argument not specified
 ```
 to `~/.bashrc`
 
+##Installation using BPKG
+1. bpkg install lorello/optparse
+2. Add
+
+```bash    
+`source /usr/local/lib/bash/optparse.sh` 
+```
+to `~/.bashrc`
+
